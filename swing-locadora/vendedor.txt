@@ -1,0 +1,4 @@
+1;Gustavo ;Balcão;Curitiba;Paraná;M;29;1675.27
+2;pedro;salão;São Paulo;Amapá;M;22;1200.0
+3;Rita;Salão;Berlin;Distrito Federal;F;26;4600.09;Rui;Balcão;CWB;Bahia;M;23;102.0
+77;Mariana;Vendas;Palmas;Paraíba;M;123;12354.0

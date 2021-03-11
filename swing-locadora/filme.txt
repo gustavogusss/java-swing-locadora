@@ -1,0 +1,6 @@
+2;Beleza Americana;12.0;true;false;12.0;Ação;
+5;Fight Club;10.9;true;true;9.9;Ação;Ficcção;
+23;Numero 23;10.0;true;true;8.0;Terror;
+321;Pulp Fiction ;10.0;true;true;9.0;Ficcção;
+98;Riana;123.0;true;true;12.0;Ação;
+321;O Iluminado;125.0;true;true;120.0;Terror;
